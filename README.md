@@ -1,4 +1,4 @@
-# 🛍️ 009-Exception-Hunters  
+# 🛍️ 009-Exception-Hunters-Project-2  
 
 ## 📌 Introduction 🚀  
 The project aims to conduct a comprehensive testing of the Online Shopping Platform **Sauce Demo**. The testing encompasses multiple methodologies to ensure robustness and efficiency. The goal is to ensure the platform's functionality across all layers—UI, API, and backend—is fully automated and tested with clear reporting, providing confidence in its readiness for production use.
