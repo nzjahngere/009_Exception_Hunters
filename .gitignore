@@ -1,0 +1,22 @@
+# Ignore target folder (compiled files)
+target/
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore Maven output
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
