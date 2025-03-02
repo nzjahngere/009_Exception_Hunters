@@ -1,5 +1,3 @@
-Here’s the entire content in `</>` format so you can directly paste it into **VS Code** without formatting issues.  
-
 # 🛍️ 009-Exception-Hunters  
 
 ## 📌 Introduction 🚀  
